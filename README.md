@@ -13,11 +13,12 @@ SPECIFICATIONS
 Scrypt
 PoW/PoS
 
-Time blocks: 60 sec.
-Block reward: 600
-POW: 20 000 blocks
+POW: 6000 blocks
+
 PoS: Yearly Interest 100%
+
 Min.Coin age: 8 hours
+
 Max age: unlimited
 
 RPC 8668 
