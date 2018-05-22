@@ -1,7 +1,7 @@
 
-Lio - Coin
+Liocoin
 
-Lio is a POW\PoS -based cryptocurrency.
+Liocoin is a POW\PoS -based cryptocurrency.
 
 Development process
 ===========================
